@@ -1,5 +1,5 @@
 {
-  "name": "@ignite-ui/react",
+  "name": "@paulok-ignite-ui/react",
   "version": "1.0.0",
   "description": "",
   "main": "./dist/index.js",
@@ -13,8 +13,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@ignite-ui/tokens": "*",
-    "@ignite-ui/ts-config": "*",
+    "@paulok-ignite-ui/tokens": "*",
+    "@paulok-ignite-ui/ts-config": "*",
     "@types/react": "^18.0.27",
     "@types/react-dom": "^18.0.10",
     "react": "^18.2.0",
@@ -22,7 +22,7 @@
     "typescript": "^4.9.5"
   },
   "dependencies": {
-    "@ignite-ui/tokens": "*",
+    "@paulok-ignite-ui/tokens": "*",
     "@radix-ui/react-avatar": "^1.0.1",
     "@radix-ui/react-checkbox": "^1.0.1",
     "@stitches/react": "^1.2.8",

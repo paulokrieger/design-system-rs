@@ -1,4 +1,6 @@
 {
-  "extends": "@ignite-ui/ts-config/react.json",
+  "extends":"@paulok-ignite-ui/ts-config/react.json",
   "include": ["src"]
 }
+
+
